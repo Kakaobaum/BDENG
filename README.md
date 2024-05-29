@@ -4,7 +4,7 @@
 Unser Ziel ist es, die Immobilienpreisentwicklung in verschiedenen Städten zu analysieren. Wir möchten Muster und Trends identifizieren, um zukünftige Preise vorhersagen zu können. Zusätzlich wollen wir eine visualisierte Übersicht der Ergebnisse bereitstellen.
 
 #### Datenquellen:
-1. **Web Scraping:** Immobilien-Webseiten wie Zillow oder ImmobilienScout24.
+1. **Web Scraping:** Immobilien-Webseiten wie Zillow.
 2. **API-Daten:** Geografische Daten von OpenStreetMap.
 3. **Historische Daten:** Download von Immobilienpreisdaten aus öffentlichen Datenbanken wie Kaggle.
 
