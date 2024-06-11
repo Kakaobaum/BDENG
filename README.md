@@ -1,4 +1,4 @@
-Unsere Systemarchitectur:
+Unsere Systemarchitektur:
 
 +----------------+          +----------------+          +----------------+          +----------------+
 | Datenquellen   |          | Kafka          |          | Spark          |          | Speicher       |
