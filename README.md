@@ -33,7 +33,11 @@ Unsere Systemarchitektur:
 | +------------+ |          |                |          | | Git         | |          | +------------+ |
 +----------------+          +----------------+          +----------------+          +----------------+
 
-
+Data sources:
+https://finance.yahoo.com/
+https://fred.stlouisfed.org/series/HOUST
+https://www.zillow.com/research/data/
+https://census.gov/economic-indicators
 
 
 
