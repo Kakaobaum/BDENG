@@ -38,7 +38,9 @@ https://finance.yahoo.com/
 https://fred.stlouisfed.org/series/HOUST
 https://www.zillow.com/research/data/
 https://census.gov/economic-indicators
-
-
+https://www.datacamp.com/tutorial/lstm-python-stock-market
+https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+https://de.wikipedia.org/wiki/Vektorautoregressive_Modelle
+https://scikit-learn.org/
 
 
